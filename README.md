@@ -6,15 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit262601&label=Profile%20views&color=0e75b6&style=flat" alt="sumit262601" /> </p>
 
-- 🔭 I'm currently Studying in BSc in Software Development [Portfolio](https://spacex-potfolio.vercel.app/)
+- 🔭 I'm currently Studying for BSc in Software Development
 
-- 🌱 I’m currently learning **React, PHP, CodeIgniter and gasp**
-
-- 👯 I’m looking to collaborate on **GitHub**
+- 🌱 I’m currently learning **React, PHP, CodeIgniter, MERN and gasp**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit262601?tab=repositories](https://github.com/Sumit262601?tab=repositories)
-
-- 💬 Ask me about **react, php, node.js,**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11h43IyVhJJBgNrjj5QNlcI2vVq3XKFA-/view?usp=drive_link](https://drive.google.com/file/d/11h43IyVhJJBgNrjj5QNlcI2vVq3XKFA-/view?usp=drive_link)
 

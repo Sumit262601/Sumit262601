@@ -1,30 +1,21 @@
-<br clear="both">
-
 <div align="center">
-  <img height="" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
+  <img height="550" width="1000" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hey 👋, I'm Sumit</h1>
+<h1 align="center">Hey 👋, I'm Sumit Kumar</h1>
 
 ###
 
-<br clear="both">
-
-<p align="center">A passionate Frontend Developer</p>
+<h4 align="center">A passionate Frontend Developer</h4>
 
 ###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">🔭 I'm currently Studying for BSc in Software Development<br>🖥️ See my portfolio at My Portfolio<br>✉️ You can contact me at skr.040878s@gmail.com<br>🧠 I'm learning MERN Stack<br>⚡ I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident that I can thrive in a dynamic and fast-paced work environment.</p>
+<p align="left">🔭 I'm currently pursuing a B.Sc. in Software Development
+  <br>🖥️ See my portfolio at My <a href="https://aesthecdev-portfolio.vercel.app/">Portfolio<a/>
+  <br>✉️ You can contact me at skr.040878s@gmail.com
+  <br>🧠 I'm learning MERN Stack
+  <br>⚡ I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident that I can thrive in a dynamic and fast-paced work environment.</p>
 
 ###
 
@@ -86,8 +77,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Socials</h2>
 
 ###
@@ -103,6 +92,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">Badges</h2>
 
 ###
 

@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div align="center">
-  <img height="" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
+<div>
+  <img height="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
 </div>
 
 ###
@@ -118,6 +118,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sumit262601/Sumit262601/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sumit262601/output/snake.svg" alt="Snake animation" />
 
 ###

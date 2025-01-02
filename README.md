@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div>
-  <img height="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
+<div align="center">
+  <img height="" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg"  />
 </div>
 
 ###
@@ -113,11 +113,5 @@
   <img src="https://streak-stats.demolab.com?user=Sumit262601&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit262601&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sumit262601/output/snake.svg" alt="Snake animation" />
 
 ###

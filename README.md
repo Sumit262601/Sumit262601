@@ -13,7 +13,7 @@
 ###
 <p align="left">🔭 I'm currently pursuing a B.Sc. in Software Development
   <br>🖥️ See my portfolio at My <a href="https://aesthecdev-portfolio.vercel.app/">Portfolio<a/>
-  <br>✉️ You can contact me at skr.040878s@gmail.com
+  <br>✉️ You can contact me at skr.04088s@gmail.com
   <br>🧠 I'm learning MERN Stack
   <br>⚡ I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident that I can thrive in a dynamic and fast-paced work environment.</p>
 
